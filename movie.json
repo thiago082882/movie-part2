@@ -1,0 +1,167 @@
+[
+    {
+        categoryid: 1,
+        categoryTitle:"Watch next TV and movies",
+        categoryItemList:[
+        {
+
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/1acc/44bb/7507/4368-97c4-7415910b9f21/35b6cf84-1f09-4d39-944c-762a1ea7e5f5_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id: 1,
+        imageUrl: "https://agenciadenoticias.uniceub.br/wp-content/uploads/2022/12/image-5-691x1024.png",
+        movieName: "Filho da Mãe - Um Reencontro com Paulo Gustavo"
+    },
+ {
+      
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/0f78/ba0e/43d2/4d27-b2db-35fd0eb32509/c4200fc8-6446-4258-994f-996a88543dd3_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id: 2,
+        imageUrl: "https://br.web.img2.acsta.net/pictures/22/08/29/09/36/3559880.jpg",
+        movieName: "Goodnight Mommy"
+    },
+ {
+       
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6c31/40a0/55ac/4d02-9fc1-41c06de73c07/cb504581-c27e-4efb-8649-aed86a192e02_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=BD4d0WQYW4YnwX37I4oafXEkMS2brJ60SOz0WjzeJW75DsEEVUa0tO9SxrDTnQmM5j5boLW0oHUHCWMBsmV18nyaBu5XmnA1lFNWQbVvRYx~3xwf3z8VoXo4x7vfDsFl1bknLA7FG9fQDwcLLvtYQHsKdnScuXFPPLZz9Xj7A0w5LPoU8GoJOfjm6pZavrYgzB6Qx2-mkN0FoXfjf~Fy-Wdgzud2EIVR819KqDyT39ZALxiG8YaAIOkq6Ma9gfkq0QNkGLoOkzWNpWdUI6EhOULAA5hCRj7YaJZ~kePo1lzi6hgAAn0mUvSqROURr6jWcaycG6oEr8dCdEMCrivh3A__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: 3,
+        imageUrl: "https://www.otempo.com.br/image/contentid/policy:1.2787366:1671916264/The-Grinch-Netflix-jpg.jpg?f=3x2&w=1224",
+        movieName: "Grinch"
+    },
+ {
+       
+        fileUri: "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/53df/74f3/6f6b/4405-931d-dcde0be7b01a/69a7e67f-1a3b-4801-8943-b6194089114a_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=UBh8e6TSwG~p55yncAthQ58kmGWMMkmFX6Gm2pafQerm3-1t-78cjgY8sFHDZNcbJhasT-xbnJLKxEYc4HX~KPOAt9~ZB~BbBHn8dHpL~Y8Y28GBuyDPVrQkyjwIFfutBDgoQflIb7KANWsHzLJXyPYwZKpvSGhO366Xc-5eUa7BTBTr0rUTmFkbcAOGXHImf7~bAqo1U7ssqFpxqHAthHJJ24v0bihuZ2rEfvsnBH6yiafpKfYpClzTlsKv3cvoAwha-6sK8lA3ZaxBB-9Z4qrOwG-9KW20ClCbhFykDqJfsYO5-BQ2a9JLGo5GwnZL3bLvYoWCPSPyHWv71Huj9Q__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: 4,
+        imageUrl: "https://i.ytimg.com/vi/r4NQPVhHLt8/maxresdefault.jpg",
+        movieName: "circus kane"
+    },
+ {
+       
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/d25b/5c7e/dad3/44e0-95b5-c92c68814716/9884f576-f039-4dd5-9e98-35eb254dca01_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id: 5,
+        imageUrl: "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f658901923be0e5aa0cad99c2e373d8a86cccb86fd34ed46d459aafbc0b75301._UY500_UX667_RI_V_TTW_.jpg",
+        movieName: "Sem Remorso"
+    }  
+    ]
+    },
+
+ {
+ 
+ categoryid: 2,
+        categoryTitle:"Watch next TV and movies",
+        categoryItemList:[
+   {
+   fileUri: "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/bdb7/42e0/be9c/4078-bc3e-2c0e9cffd469/b4da45bd-c82d-47e0-b4a1-59d629cd0075_video_900_audio_aaclc_128.mp4?Expires=1672352188&Signature=I3oS8PPqqYcaEQLfVnrpOX1Ur-AxMV6Ki1cbIVh~vlE1Y9w20Zuc5drCYpURVAw~6xo3f~YiXGTRhjjcNvtD3S~wtwCTX3zDkBDBltImg0uAIF~sLC-fII4QWKTkwoWwm93S~9g4W3FU6NQ4XTRGlSaYwSBxpZyvjlEthpRth4czHuVBwSrEhMk1Lvd10flX5j7tTKVOnbznUDlM5KEt6uSIcGPDEkBEZLmVWsjnxdsy8G-6rKbHsrGuaA6kbAqj~dGh6u~l8Ul9cFhBK1q7Jb6qQMbdC3cDux70mKAyJxYCSfvOeydZVU67-BmU49uWjDspass0GxQ8u6N52AGySw__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        "id": 1,
+        imageUrl: "https://4.bp.blogspot.com/-j_e15fHVpO8/V36LlJwBDQI/AAAAAAAAuAE/P7LDdjTSiXU5QQRDVGubpzOGPatvXNk6QCLcB/s1600/Two-and-a-half-men.jpg",
+        movieName: "Two Man and Half"
+    },
+ {
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/f088/e3c8/20ff/4c3a-95bb-32a412afe0bc/00454d40-bd36-46c9-98fe-1811067b4f69_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id": 2,
+        imageUrl: "https://m.media-amazon.com/images/S/pv-target-images/2fc4e74b7d503e405e469c754029b4fd99c8e2426d498eec374e2fa6d1b3c519.jpg",
+        movieName: "O Verão Que Mudou Minha Vida"
+    },
+ {
+    
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/e277/9399/28e8/4d37-9ab8-db74c8a60b0b/00b92cef-3f2a-4167-9277-b7fa679b2623_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id": 3,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EiJGh3x7oMscDkhDCleYclPk9RDiWOWT9Jtpv74PXBI3jqXkxxnXq2fqFE8ZLFv3w_g&usqp=CAU",
+        movieName: "Reacher 1 temporada"
+    },
+ {
+       
+        fileUri: "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/4961/c42f/13d5/42fa-b37a-12f7b5750f3c/1bf3698d-2693-45c5-b64c-4848a4c670c2_video_900_audio_aaclc_128.mp4?Expires=1672352399&Signature=JcUvo6I3MODvEA1-G9k~oyrsd23wOKQi3u0rSKXVJJds8IjK7tgGAYOdBQsk~9HBUo85Dtm1yvRS2IomyFn01PAvhbUyR7vFEbMDBspjuAy7KoTjAAfsPCRDKPRzDsm9j~DLxaWVhc2Ph-6lcuQTOzaTFayjwTqIEvgPyboG2NcB9hEeoN4aPU0inq6T6fY~MRAg81u8tb3KhC2yKZKLbbSoKlDkL64SJOXtFNzuXVy6KzZ2ixfi8XAUlRpFA1ajZzAW7lbpRfucJT89U4WSZR7-kRI1OuauVFaxkE3Eq9GC5ricPj0tiL95Nl0NTOxHukHc6jU7jZeBN3XJfXs07A__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id": 4,
+        imageUrl: "https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/6E5C21665FB9FEB01084C61C11AC487A12B4A6DA5F3A0A3B3BF6C0BC3DC3B8C5/scale?width=1200&aspectRatio=1.78&format=jpeg",
+        movieName: "Isto Somos Nós"
+    },
+ {
+        
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/ca76/8afc/7d01/42f2-8673-04885a5357ef/5822ae6c-d4de-4f53-9de9-f4c40bf4c647_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id": 5,
+        imageUrl: "https://cinestera.com.br/wp-content/uploads/2022/10/Perife%CC%81ricos.jpeg",
+        movieName: "Perifericos"
+ }
+    ]
+    },
+ {
+    categoryid: 3,
+        categoryTitle:"Watch next TV and movies",
+        categoryItemList:[
+   {
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6d41/5d20/5965/4e73-8852-aba425b12525/e068b184-5e63-4796-91ff-a9994098fbba_video_900_audio_aaclc_128.mp4?Expires=1672354487&Signature=gaHKs~SEjBvLbt4Sjbn85PmSptZ~PupSKQLw~4ntWXlmxqTm4ZJ5nwIjW1cpwwl1KVmw0Me61QE0~gmiC32OJrCdpIQxtbNbgN~hOZ-5RcRQn3VfZYuELSu84AiPdX7MlC5XNq9VEGFsgeUlEMtYqxSE7KB3ADfC~r4Q8UESoUdjXwVcoSxCxa1eNEQ8nPnRVx2H0jFXGomysZuOyutjF5DjJcDl4DKbMmlspqxgol8er~W8lHx4X0rklqMmz~S4D6A6x2wIGl7Y280QTpiQtSuOsyV251A1iwe9u4bl4io7f2Pfp0Z61eAI2uFfZUXN~baE5Ru8YsSMp~as7o~gWA__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: 1,
+        imageUrl: "https://jovemnerd.com.br/wp-content/uploads/ads_loide.jpg",
+        movieName: "Dumb and Dumber To"
+    },
+ {
+        
+        fileUri: "https://br.web.img3.acsta.net/pictures/21/06/01/21/29/5026941.jpg",
+        id: "2",
+        imageUrl:"https://s3-dub-2.cf.trailer.row.aiv-cdn.net/fd68/3009/d793/49f4-a59b-ee1d20a63892/d1648476-2d41-46ca-b7c8-40339c8bb76f_video_900_audio_aaclc_128.mp4?Expires=1672354487&Signature=IAaQ5Hj5V2a4oD7Jl07yaqg0LwWYdgMPpdStkIsHF9LaCLBKN5TkNqp~IsHK42-~zUXb5O~YfMcGXpDXxKRMEbZR9J8M0l9z7osCQOqGJOOQ0FTmBBw5xIAXVHLc7k7kqscwZf4HAgKkgGs3LtnFT-TAlumDCVMcgJOOlKk~oeOKL2G6nsu89Y1xQCysQkfXTmSY-gPcn86VFJIc5jInuVgC2yXwP9hJzpmnzJ3waIfT7pSxTMyuJCFCdYDLQ7APPfZ96YWPeA7eDHiXJj9mMuxG8L7wiSNn65vc1wK441wTaoyMzXDFiSsfQTrZMLNaVpS2bdyc69nkQChVDCStJQ__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        movieName: "Infiltrado"
+    },
+ {
+        
+        fileUri: "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/ea79/d056/322d/47bc-98ee-acd2821476fe/3e0203ba-9e59-44cd-bdb5-6c34b5a87f4b_video_900_audio_aaclc_128.mp4?Expires=1672354595&Signature=Mjt3-1RdfkAJS3zi0aF-YCSXatX9O70qp4F6wOCtpL8Gof4XD7f5wn07ci3pPN~43MYCTyI94xcGbOPiJEzhhCii39hD-5URFd7x7fFgi7rbR8YJF~EeB5yDeFZLGigAL5fxSdwLZYukMvJe3NhRGr2K2tryo3d4gTIYNsvTLl~UI85ix0tlq8DfXYAZz6SXPbs34-WNXwcFtUVuPn9wIqOJtOajCW~fHcX00dw3gGln4wvQ~4OFsHN24nUoKparSB0urfYZcXyRxSy6rveBzPrtTdkGrITvaO~F6eJ9j0x8-QQWO9fn-kGRUDCTcE0~3dfRtxLu2i6jYN37sKToWQ__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id": "3,
+        imageUrl: "https://static.wikia.nocookie.net/fastandfurious/images/8/87/Fast_One_Poster.jpg/revision/latest?cb=20200205060103",
+        movieName: "fast and the furious"
+    },
+ {
+       
+        fileUri: "https://s3-dub-2.cf.trailer.row.aiv-cdn.net/45ac/2f65/5dc2/4881-9a6f-c29bf29e05c8/26af6686-a851-4a75-82a5-fdfbd2237ecd_video_300_audio_aaclc_128.mp4?Expires=1672354757&Signature=G3GArqYcSYrykM8UKxoiYb9D-HLXn5BWcdzublI9aDReT3pO7sSyLseTIYCGBYJYM4WYF20I4yfn36Xe4yUq3Ts6GnibEb3m6ncx4Xj7NkCMZfU5OOSAuxKT5XUy5vznHkSmTueLhGVNllQ~i7z5KC8HHV0U3tdv6eBQlX402xDskB5ARXKq1mUXm3~rgMx94789BOkHnBNkrXDZZecqwnWhQhep0angH1JtVrijoPucS-rtRl80NZ42WowCDTDlAHsqprszbc3LaTiOoVPnd-Zzv7bAXOSk-5LFQPrY5idTSCAfC~oyooq0aljlvbFCX2DDf3ZZk-0nNEeuUB6G4Q__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: "4",
+        imageUrl: "https://br.web.img2.acsta.net/c_310_420/medias/nmedia/18/90/43/55/20096430.jpg",
+        movieName: "A Família Addams"
+    },
+ {
+     
+        fileUri: "https://s3-dub-2.cf.trailer.row.aiv-cdn.net/06e2/0515/055c/4dd8-b400-7c968308ce83/82696c40-2928-4e9c-b55b-2a583ec851c1_video_900_audio_aaclc_128.mp4?Expires=1672354836&Signature=epRQ9JdOg2Op8LNm9LFmQO8C2uCQOw6jgrEkWidWGj0cXwMLjJZj8FPMnJvs9fhflXNUYrW5A9m-TTK3oQFmtbf-sW7T1hxqxQtJjFPYP7zuSf4xwIKGt88Ug5DTqj2AP6lPq34RTfiU-td-6-Afi9cbvm0JhourSoC9j29qQuh60fElLVIFFGPjVcym26JOBzHgQgCfCR74Qp~0KtlqLbTImfdstn7wA3u1iprxFaKrZE9GdrrBjUqGun7LoQ8hc8pFz-kOEG4zJo~n7IIAuAAp7eoaXcKqMUTB4omfl-nDhYJjxPe05atEplEUPUYWcND12vyfDQiq4Sv89BFQLA__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id": 5,
+        imageUrl: "https://br.web.img3.acsta.net/pictures/20/01/30/21/26/4262598.jpg",
+        movieName: "No Gogó do Paulinho"
+ }
+    ]
+    },
+
+ {
+         categoryid: 4,
+        categoryTitle:"Watch next TV and movies",
+        categoryItemList:[
+   {
+        
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6d74/a6b4/bc65/4fe0-b63f-2ea3d685c54a/061fb4c6-92fb-44c8-bd67-e6ba224545de_video_900_audio_aaclc_128.mp4?Expires=1672354487&Signature=eDhIyO85L1HgKgsWlSDCWoCJRD88YkDDdNCdruLqlTmx1dRYem-vevUTLdjRxSjAHTLkRleYgIY1Bylpp7TEgbqA5of7fInsjQF0O9tXvSDVzgMFQXwguh9kiQ5O7MtPc1yHHnmIqp8sRYU5MNeu8Xr4VBl~lyi9E6N2LAGEqOvkNZDxpRZz33Hfi6sKhcNYTw5jiNLTZwknaLYOhoGlslCxrMHkJjT10ihB4d9CqwNE0fiOdhshV65NJ2QFXwWdxkuKq-1dDtZAQyeOwCb71gWH05d0a8CY4Wv5gDFkCbxZ-0WjKaoxRNUBiIGYH1mxSMN79o67KUPwYS6QxUk1lA__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id": 1,
+        imageUrl: "https://www.atoupeira.com.br/wp-content/uploads/2021/10/a-familia-addams-2-poster-nacional-critica.jpg",
+        movieName: "A Família Addams 2"
+    },
+ {
+      
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6dde/105f/7e8a/45b4-94cd-7b844c8ae30b/3d3549a4-7f43-437f-b912-eba2364255d6_video_900_audio_aaclc_128.mp4?Expires=1672354487&Signature=WvUwtUVWW7P7I1nV4vlghQbevvLXE7G~oWXkbdlp5IFbvuzFShXoJHJQQ-q7zybFJZCTtxmCyvqs3qmWgEf7IKlpg34wo44b14UvZZrHrGsJCGSTymZCB~vDD-rTwUDlzrazXY4g9894yS6HIry8GMlgdf3o1q0EPoW0jUq7GDQ~fEfPwBI9y0mf06CBMFm4F1U11ZVkQDED-hsJqiX74pBnQDyY1JT0aVwfUWMEPj2S6MRlr5YeTEvaohDzlKSSHA-B3-QontRt7WsqVBFYFdKwygRC7lOS3MccZlmCkbfHLInXUKLCPayxIUM-cG~pKVZNYQLk~x5DezAOZMZthQ__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id": 2,
+        imageUrl: "https://m.media-amazon.com/images/I/81HW-gjavFL._SL1500_.jpg",
+        movieName: "Tom & Jerry"
+    },
+ {
+      
+        fileUri: "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/ad73/a2df/2b4f/4941-9142-2fa5768dd849/01917293-8ee5-490f-85d9-8c6219d5cdca_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        id: 3,
+        imageUrl: "https://www.sonypictures.com.br/sites/brazil/files/2021-07/05-07_enxoval-site_ht4_CARTAZ.jpg",
+        movieName: "Hotel Transilvânia 4: Transformonstrão"
+    },
+ {
+        
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/c2d9/c9c2/5eac/4910-b64e-5aeb48b0b4a6/ccc58661-12d8-4674-8057-db3bf73eba81_video_900_audio_aaclc_128.mp4?Expires=1672354922&Signature=pyOhMSWYtcuGtF-o~hPrU0QL8bsnqfCE2r4PBkC93H0Uh4W-o43H~zTmsew-nQ9cAsSFprpNy4e~69oEZIX7ZCA1qZM-WJq2EWbgky6tDgU4Y7sP7mEAfiIZw1s2OxtO~Uafnbj9Qd0rfKyDuE00UPbAURJGeaSsJYeYTwadkStK0t7Jxr6xbqsMw7eRzot-WvwmwfgDBcb5K7YxGB1OCLG-rY5qBXPedC6hyVw9Qfqxt-dRvLVhEPPPHHL~Vx0Bb6ooUTFYUDdsm~pmtWHY6kc1f44rb9JHyYJ33if~buaJop7r-WWia5YAbi3n4~MHWloFHXpmnvD6hG36DS6CQw__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: 4,
+        imageUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRO3NjNak_A8XVaY8T_U7dEuOj1AOv4RYZ7h5Nwh_aVOJ_zhxD1uCbr3-Vm90kYkJgj_M&usqp=CAU",
+        movieName: "Shrek"
+    },
+ {
+       
+        fileUri: "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6e92/26dd/3938/46da-8b9e-6985250ea442/aef72a99-0323-46e5-a0ad-6e67df73c255_video_900_audio_aaclc_128.mp4?Expires=1672354922&Signature=CjNi3ZwEerz2bIvGXz-5h73uxdpUlc0YOinRFZKXOzzpJcC2~51bE6OV1E~01qyjhGKLu2evrRi5NuQ979jVnaHKdGtKWfVhmtB8Juughr6DhGpRmJewgETKUNrBdC3PWLMriTsGBztHBtE0pY0Qak7Njm4iiTZtNHQGJXhzqABz9nhGKU624eBKErNuJ4p2mmuMPF6tK595uBMKVs4HDRHOdj6KuT2SurXDh4rkM2BPgpVVKIVH2LHuELVxVqYfALE3epPmOsZrvTwtc4BCBWBwoDBxrhfXQfjq61T67AmVIlf9j28jCHG19eZ~UvbywXZ1rNiSWrZwJy5qlfGRnA__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        id: 5,
+        imageUrl: "https://br.web.img2.acsta.net/medias/nmedia/18/91/54/02/20150796.jpg",
+        movieName: "Madagascar"
+ }
+   ]
+    
+    }
+  ] 
