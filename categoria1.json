@@ -1,4 +1,4 @@
-[
+
    - {
         categoryid: 1,
         categoryTitle:"Watch next TV and movies",
@@ -39,5 +39,5 @@
         movieName: "Sem Remorso"
     }  
     ]
-    },
-  ] 
+    }
+  
