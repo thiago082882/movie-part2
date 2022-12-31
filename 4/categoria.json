@@ -1,96 +1,97 @@
 [
    {
         "categoryid": 4,
-        "categoryTitle":"Watch next TV and movies",
+        "categoryTitle":"Prime Amazon Originais para crianças",
        "categoryItemList":  [
        {
 
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/1acc/44bb/7507/4368-97c4-7415910b9f21/35b6cf84-1f09-4d39-944c-762a1ea7e5f5_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "",
         "id": 1,
-        "imageUrl": "https://agenciadenoticias.uniceub.br/wp-content/uploads/2022/12/image-5-691x1024.png",
-        "movieName": "Filho da Mãe - Um Reencontro com Paulo Gustavo"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/f46a64c1ecac16e2450d720acc1486a695b96f8a64ff695972b6744b97595e74._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Pete, o Gato - Temporada 2, Parte 4"
     },
   
    {
       
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/0f78/ba0e/43d2/4d27-b2db-35fd0eb32509/c4200fc8-6446-4258-994f-996a88543dd3_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "",
         "id": 2,
-        "imageUrl": "https://br.web.img2.acsta.net/pictures/22/08/29/09/36/3559880.jpg",
-        "movieName": "Goodnight Mommy"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/a2188206326b6fe2e81235ee90311959d504b139b66285640816e8850c6fb351._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Danger & Eggs - Temporada 1"
     },
   
  {
        
-        "fileUri": "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6c31/40a0/55ac/4d02-9fc1-41c06de73c07/cb504581-c27e-4efb-8649-aed86a192e02_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=BD4d0WQYW4YnwX37I4oafXEkMS2brJ60SOz0WjzeJW75DsEEVUa0tO9SxrDTnQmM5j5boLW0oHUHCWMBsmV18nyaBu5XmnA1lFNWQbVvRYx~3xwf3z8VoXo4x7vfDsFl1bknLA7FG9fQDwcLLvtYQHsKdnScuXFPPLZz9Xj7A0w5LPoU8GoJOfjm6pZavrYgzB6Qx2-mkN0FoXfjf~Fy-Wdgzud2EIVR819KqDyT39ZALxiG8YaAIOkq6Ma9gfkq0QNkGLoOkzWNpWdUI6EhOULAA5hCRj7YaJZ~kePo1lzi6hgAAn0mUvSqROURr6jWcaycG6oEr8dCdEMCrivh3A__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        "fileUri": "",
         "id": 3,
-        "imageUrl": "https://www.otempo.com.br/image/contentid/policy:1.2787366:1671916264/The-Grinch-Netflix-jpg.jpg?f=3x2&w=1224",
-        "movieName": "Grinch"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/6eab52df5ef69042377c87524e636892157ec6bbe31532e9db062f5316079ba5._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Troop Zero"
     },
   
 {
        
-        "fileUri": "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/53df/74f3/6f6b/4405-931d-dcde0be7b01a/69a7e67f-1a3b-4801-8943-b6194089114a_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=UBh8e6TSwG~p55yncAthQ58kmGWMMkmFX6Gm2pafQerm3-1t-78cjgY8sFHDZNcbJhasT-xbnJLKxEYc4HX~KPOAt9~ZB~BbBHn8dHpL~Y8Y28GBuyDPVrQkyjwIFfutBDgoQflIb7KANWsHzLJXyPYwZKpvSGhO366Xc-5eUa7BTBTr0rUTmFkbcAOGXHImf7~bAqo1U7ssqFpxqHAthHJJ24v0bihuZ2rEfvsnBH6yiafpKfYpClzTlsKv3cvoAwha-6sK8lA3ZaxBB-9Z4qrOwG-9KW20ClCbhFykDqJfsYO5-BQ2a9JLGo5GwnZL3bLvYoWCPSPyHWv71Huj9Q__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        "fileUri": "",
         "id": 4,
-        "imageUrl": "https://i.ytimg.com/vi/r4NQPVhHLt8/maxresdefault.jpg",
-        "movieName": "circus kane"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/714a7edcf08b11ce4587a43927f0726ecef049ee087815a0f3e189449c629494._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "As Kicks - 1ª Temporada"
     },
   
  {
        
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/d25b/5c7e/dad3/44e0-95b5-c92c68814716/9884f576-f039-4dd5-9e98-35eb254dca01_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "",
         "id": 5,
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f658901923be0e5aa0cad99c2e373d8a86cccb86fd34ed46d459aafbc0b75301._UY500_UX667_RI_V_TTW_.jpg",
-        "movieName": "Sem Remorso"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/7aa1e76c4f120f22749378c5de2633e9a5d34d217b99b7c5567a23bf196a7969._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Pequenas Grandes Fantastiquices - Temporada 102"
 
     }  
   
      ]
 },
-   {
+      {
         "categoryid": 3,
-        "categoryTitle":"Watch next TV and movies",
+        "categoryTitle":"Prime Filmes e séries para crianças mais velhas",
        "categoryItemList":  [
        {
 
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/1acc/44bb/7507/4368-97c4-7415910b9f21/35b6cf84-1f09-4d39-944c-762a1ea7e5f5_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/c68b/218d/6a1f/4def-9c87-ae821c155262/3870a312-fecb-4f98-9e4c-bc0be0e2d84d_video_900_audio_aaclc_128.mp4?Expires=1672552251&Signature=ZM45ASB1GrExUGdrScNpL~niObpk4xU6CFufIzxRb-fJUy2ddUZN30AFda0xE-GpWMiTO-kpoROw9ISO~rRA6HT1Grv0elTbPOLi3Fqc60AD4-cui9zhafhfVfJKID6R4ZHCgtVt1J3tiQx9Xr9BGJr8iw0GiZjl~nGz-BfPMhvEjBD5s6Jal8z9TN8T0Appz2eiw5iXisxtjS5F4JFNGdJi2fgdv1HMlIzoYS4JpcGbkpzN9dtESGfGtWOfUIkyoicBxkErbaKJCAHRS04XzUi-IMF5CVV0Q354-nLHbtcqREvMBxllgZdWpLVXm1XnAN5P0VoUiHNRNPPcJF0pdA__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
         "id": 1,
-        "imageUrl": "https://agenciadenoticias.uniceub.br/wp-content/uploads/2022/12/image-5-691x1024.png",
-        "movieName": "Filho da Mãe - Um Reencontro com Paulo Gustavo"
+        "imageUrl": "https://cinemacomrapadura.com.br/imagens/2015/02/20150208-bob-esponja-poster-615x911.jpg",
+        "movieName": "Bob Esponja: Um Herói Fora d'Água"
     },
   
    {
       
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/0f78/ba0e/43d2/4d27-b2db-35fd0eb32509/c4200fc8-6446-4258-994f-996a88543dd3_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/f6ce/1659/617b/4000-9974-9cb77a38a32e/0d028045-91c5-44bf-a8b2-0398c7a59d5b_video_900_audio_aaclc_128.mp4?Expires=1672552251&Signature=iSdYwFtojMR-mx46CMBgJx6KeBXmyXloCVZ1o4xsbZjpSGwqv04n8RR4YLxYsYDPbcd1y6mGKuA2Wmu2tiJT1rj93pnl2VD~ebrAVyOOstuw18-sV5WdHNf1LPEp2WeuxuTvQtXA1l-tDZ0pPA6MXnGZgiA~KCn4fefihOwIuhHSduOlo2uwgkfroozf68rehaR5CNybYCSl9gcc0v5o83~B42QUTU4O58v568lTkzf1uRihEEntr7e1U0tF54LyCr7QqM-b6nAEOTuXFSnI8jNMob8ddldXcBZZHNlEAZQgUyEtA8J1prx69aL0nunC2MKUU1p4-INNAAZuRJGqpQ__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
         "id": 2,
-        "imageUrl": "https://br.web.img2.acsta.net/pictures/22/08/29/09/36/3559880.jpg",
-        "movieName": "Goodnight Mommy"
+        "imageUrl": "https://s1.dmcdn.net/v/IidhK1Vb3AoI29b2V/x1080",
+        "movieName": "Chaves em desenho animado"
     },
   
  {
        
-        "fileUri": "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6c31/40a0/55ac/4d02-9fc1-41c06de73c07/cb504581-c27e-4efb-8649-aed86a192e02_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=BD4d0WQYW4YnwX37I4oafXEkMS2brJ60SOz0WjzeJW75DsEEVUa0tO9SxrDTnQmM5j5boLW0oHUHCWMBsmV18nyaBu5XmnA1lFNWQbVvRYx~3xwf3z8VoXo4x7vfDsFl1bknLA7FG9fQDwcLLvtYQHsKdnScuXFPPLZz9Xj7A0w5LPoU8GoJOfjm6pZavrYgzB6Qx2-mkN0FoXfjf~Fy-Wdgzud2EIVR819KqDyT39ZALxiG8YaAIOkq6Ma9gfkq0QNkGLoOkzWNpWdUI6EhOULAA5hCRj7YaJZ~kePo1lzi6hgAAn0mUvSqROURr6jWcaycG6oEr8dCdEMCrivh3A__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        "fileUri": "",
         "id": 3,
-        "imageUrl": "https://www.otempo.com.br/image/contentid/policy:1.2787366:1671916264/The-Grinch-Netflix-jpg.jpg?f=3x2&w=1224",
-        "movieName": "Grinch"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/9e1b75bfe671a8bd1b23232b9204ca2baff9e5c876fb9cf7038fde95271768e8._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Mr. Bean: La Serie Animada 1"
     },
   
 {
        
-        "fileUri": "https://s3-gru-ww.cf.trailer.row.aiv-cdn.net/53df/74f3/6f6b/4405-931d-dcde0be7b01a/69a7e67f-1a3b-4801-8943-b6194089114a_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=UBh8e6TSwG~p55yncAthQ58kmGWMMkmFX6Gm2pafQerm3-1t-78cjgY8sFHDZNcbJhasT-xbnJLKxEYc4HX~KPOAt9~ZB~BbBHn8dHpL~Y8Y28GBuyDPVrQkyjwIFfutBDgoQflIb7KANWsHzLJXyPYwZKpvSGhO366Xc-5eUa7BTBTr0rUTmFkbcAOGXHImf7~bAqo1U7ssqFpxqHAthHJJ24v0bihuZ2rEfvsnBH6yiafpKfYpClzTlsKv3cvoAwha-6sK8lA3ZaxBB-9Z4qrOwG-9KW20ClCbhFykDqJfsYO5-BQ2a9JLGo5GwnZL3bLvYoWCPSPyHWv71Huj9Q__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
+        "fileUri": "",
         "id": 4,
-        "imageUrl": "https://i.ytimg.com/vi/r4NQPVhHLt8/maxresdefault.jpg",
-        "movieName": "circus kane"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/5822ff133763c1f48dfd46643b78834119671af5e6137a87d53fda445cdcd473._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Caillou - Season 1"
     },
   
  {
        
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/d25b/5c7e/dad3/44e0-95b5-c92c68814716/9884f576-f039-4dd5-9e98-35eb254dca01_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "",
         "id": 5,
-        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f658901923be0e5aa0cad99c2e373d8a86cccb86fd34ed46d459aafbc0b75301._UY500_UX667_RI_V_TTW_.jpg",
-        "movieName": "Sem Remorso"
+        "imageUrl": "https://m.media-amazon.com/images/S/pv-target-images/85d904502e4bb65461acee7dd63e4c202a188bcc6acefdb0f086f84d1e33f155._UR1920,1080_SX356_FMwebp_.jpg",
+        "movieName": "Peppa Pig - 1ª Temporada"
 
     }  
   
      ]
 }
+   
 ]
