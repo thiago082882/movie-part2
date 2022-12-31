@@ -1,21 +1,21 @@
 [
    {
         "categoryid": 1,
-        "categoryTitle":"Watch next TV and movies",
+        "categoryTitle":"Filmes recomendados",
        "categoryItemList":  [
        {
 
-        "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/1acc/44bb/7507/4368-97c4-7415910b9f21/35b6cf84-1f09-4d39-944c-762a1ea7e5f5_video_480p_900kbps_audio_aaclc_128kbps.mp4",
+        "fileUri": "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/72a1/5f96/67c1/4d47-9364-05b47800d630/0ec320da-0142-4e96-a45a-2e3c420fee22_video_900_audio_aaclc_128.mp4?Expires=1672539816&Signature=KPfwNppDP2aLxszzvO4KVHgvJ7cUNcI5RppaeGTYTHOcU-OCdyTDZNYljzvupo68AjQpcXYq1iMEGpDoad0iaoIorPzRNec5VMBCRzGJ-ubunZ-GOG8cZQyHjkzffJKPxGI6n3lLtMMbae2j~TFKs6ajSoq7H3Jjzv02yjOaqcm2vICSLd9PtaAjK5ntoUkJlJFpHUxcYPXhS6D1rHePyKjkZa~jyxrtUkVksr8Dt~JDUZUaxr9UO87NYcxvvL06Vht9-DzE6VYtJnYDAOWw6VGJgMMHvIqy3jPIHt-ijABUjD-icsLteWGOz2t33wAOmZbuKowKjeV3dqiSSXuXFQ__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
         "id": 1,
-        "imageUrl": "https://agenciadenoticias.uniceub.br/wp-content/uploads/2022/12/image-5-691x1024.png",
-        "movieName": "Filho da Mãe - Um Reencontro com Paulo Gustavo"
+        "imageUrl": "https://br.web.img2.acsta.net/c_310_420/pictures/21/06/01/21/29/5026941.jpg",
+        "movieName": "Infiltrado"
     },
   
    {
       
         "fileUri": "https://s3-gru-ww.cf.videorolls.row.aiv-cdn.net/0f78/ba0e/43d2/4d27-b2db-35fd0eb32509/c4200fc8-6446-4258-994f-996a88543dd3_video_480p_900kbps_audio_aaclc_128kbps.mp4",
         "id": 2,
-        "imageUrl": "https://br.web.img2.acsta.net/pictures/22/08/29/09/36/3559880.jpg",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/cc82fb8bb4a39019519ffb595d442fde3d50bca767744b709d775bba6fd972ef._UY500_UX667_RI_V_TTW_.jpg",
         "movieName": "Goodnight Mommy"
     },
   
@@ -23,7 +23,7 @@
        
         "fileUri": "https://s3-iad-2.cf.trailer.row.aiv-cdn.net/6c31/40a0/55ac/4d02-9fc1-41c06de73c07/cb504581-c27e-4efb-8649-aed86a192e02_video_900_audio_aaclc_128.mp4?Expires=1672351514&Signature=BD4d0WQYW4YnwX37I4oafXEkMS2brJ60SOz0WjzeJW75DsEEVUa0tO9SxrDTnQmM5j5boLW0oHUHCWMBsmV18nyaBu5XmnA1lFNWQbVvRYx~3xwf3z8VoXo4x7vfDsFl1bknLA7FG9fQDwcLLvtYQHsKdnScuXFPPLZz9Xj7A0w5LPoU8GoJOfjm6pZavrYgzB6Qx2-mkN0FoXfjf~Fy-Wdgzud2EIVR819KqDyT39ZALxiG8YaAIOkq6Ma9gfkq0QNkGLoOkzWNpWdUI6EhOULAA5hCRj7YaJZ~kePo1lzi6hgAAn0mUvSqROURr6jWcaycG6oEr8dCdEMCrivh3A__&Key-Pair-Id=APKAJIYEUF5P2E3CCYTA",
         "id": 3,
-        "imageUrl": "https://www.otempo.com.br/image/contentid/policy:1.2787366:1671916264/The-Grinch-Netflix-jpg.jpg?f=3x2&w=1224",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmE8C-cMRpI3knUWp7rm4XzHKtVo3V33W_AUTleebPWHDJ7O5YB9SNgoC2u1VB-c8LFf4&usqp=CAU",
         "movieName": "Grinch"
     },
   
@@ -49,7 +49,7 @@
    
    {
         "categoryid": 2,
-        "categoryTitle":"Watch next TV and movies",
+        "categoryTitle":"Amazon Originais e exclusivos",
        "categoryItemList":  [
        {
 
@@ -96,7 +96,7 @@
 },
      {
         "categoryid": 3,
-        "categoryTitle":"Watch next TV and movies",
+        "categoryTitle":"Melhores filmes",
        "categoryItemList":  [
        {
 
